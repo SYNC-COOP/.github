@@ -33,7 +33,7 @@ Sistem ini mendukung arsitektur **Multi-Tenant**, sehingga satu infrastruktur da
 ## Preview Aplikasi
 
 <div align="center">
-  <img src="sync_coop_app/assets/images/preview1.png" width="1500" alt="Preview SYNC-COOP">
+ <img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/893a919e-556d-4359-951f-6622af67853c" width="1500"  />
 </div>
 
 ---
