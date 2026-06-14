@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="sync_coop_app/assets/images/ic_launcher.png" width="150" alt="SYNC-COOP Logo">
+<img width="432" height="432" alt="ic_launcher" src="https://github.com/user-attachments/assets/6c0acae3-8ec6-465c-9030-c5cefca4405c"  width="150"/>
+
   <h1>SYNC-COOP</h1>
   <p><strong>Platform Koperasi Peternakan Digital — Offline-First & Multi-Tenant</strong></p>
 
